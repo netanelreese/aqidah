@@ -6,20 +6,20 @@
 
 ### Texts to Implement
 
-[ ] Quran
-[ ] Tafsir
-[ ] Hadith
-  [ ] Sunni Hadith
-    [ ] Sahih Bukhari
-    [ ] Sahih Muslim
-    [ ] Sunan al-Sughra
-    [ ] Sunan Abu Dawood
-    [ ] Jami al-Tirmidhi
-    [ ] Sunan ibn Majah
-  [ ] Shia Hadith
-    [ ] Kitab al-Kafi
-    [ ] Man La Yahduruhu al-Faqih
-    [ ] Tahdhib al-Ahkam
-    [ ] al-Istibsar
+- [ ] Quran
+- [ ] Tafsir
+- [ ] Hadith
+  - [ ] Sunni Hadith
+    - [ ] Sahih Bukhari
+    - [ ] Sahih Muslim
+    - [ ] Sunan al-Sughra
+    - [ ] Sunan Abu Dawood
+    - [ ] Jami al-Tirmidhi
+    - [ ] Sunan ibn Majah
+  - [ ] Shia Hadith
+    - [ ] Kitab al-Kafi
+    - [ ] Man La Yahduruhu al-Faqih
+    - [ ] Tahdhib al-Ahkam
+    - [ ] al-Istibsar
     
 *This list is not comprehensive, more items will come as I think of them*
