@@ -1,8 +1,10 @@
-# Kitab :book:
+# Aqidah :book:
 
 ### Living Library of Islamic Texts
 
 - Trying to make a library of Islamic texts for free scholarship and use
+
+- The name is taken from the Arabic word meaning "*creed*" or "*theology*"
 
 ### Texts to Implement
 
